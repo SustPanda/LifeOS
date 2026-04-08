@@ -2,6 +2,7 @@
   "name": "lifeos",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://SustPanda.github.io/LifeOS",
   "type": "module",
   "scripts": {
     "dev": "vite",
